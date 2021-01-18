@@ -1,5 +1,7 @@
-title: WTF Rust?
+---
+title: "WTF Rust?"
 date: 2020-01-18
+---
 
 Hi, Pieter here.
 
